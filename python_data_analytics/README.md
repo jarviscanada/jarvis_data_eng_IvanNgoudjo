@@ -34,12 +34,12 @@ L'écosystème analytique s'intègre directement avec la plateforme web de LGS s
 #### Diagramme d'architecture
 
 please refer to architectural diagram in the `assets` directory.
-![Cluster Diagram](assets/Linux_cluster.drawio.png)
+![Cluster Diagram](assets/Architecture_RFM.jpg)
 
 
 ## Analyse et manipulation des données
 
-* **Lien vers le code source :** L'ensemble des étapes d'ingénierie, de nettoyage des données et de calculs statistiques est consultable directement dans le [Jupyter Notebook pour l'analyse et la manipulation des données](./retail_data_analytics_wrangling.ipynb).
+* **Lien vers le code source :** L'ensemble des étapes d'ingénierie, de nettoyage des données et de calculs statistiques est consultable directement dans le [Jupyter Notebook pour l'analyse et la manipulation des données](/python_data_wrangling/customer-segmentation-with-rfm-score.ipynb).
 
 ### Stratégie de données commerciales : Générer des revenus pour LGS
 
