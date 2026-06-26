@@ -39,7 +39,7 @@ please refer to architectural diagram in the `assets` directory.
 
 ## Analyse et manipulation des données
 
-* **Lien vers le code source :** L'ensemble des étapes d'ingénierie, de nettoyage des données et de calculs statistiques est consultable directement dans le [Jupyter Notebook pour l'analyse et la manipulation des données](/python_data_wrangling/customer-segmentation-with-rfm-score.ipynb).
+* **Lien vers le code source :** L'ensemble des étapes d'ingénierie, de nettoyage des données et de calculs statistiques est consultable directement dans le [Jupyter Notebook pour l'analyse et la manipulation des données](./python_data_wrangling/customer-segmentation-with-rfm-score.ipynb).
 
 ### Stratégie de données commerciales : Générer des revenus pour LGS
 
